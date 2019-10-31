@@ -1,0 +1,22 @@
+.banner {
+  margin: 0;
+  padding: 200px 0;
+  background-position: center;
+  background-size: cover;
+}
+.banner h1, .banner p {
+  color: white;
+}
+.banner h1{
+  font-size: 2em;
+}
+.banner p {
+  font-size: 20px;
+  padding: 0 0 2em 0;
+}
+.banner a {
+  background-color: #1ddd88;
+  padding: 15px 36px;
+  border-radius: 50px;
+  color: #fff;
+}
